@@ -1,0 +1,194 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+.hd1 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../Image/ewallet.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.hd2 {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../Image/ewallet.jpg);
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+section {
+    padding: 15rem 0rem;
+    
+}
+
+.card-wrapper {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.card {
+    width: 40rem;
+    background-color: #ebeef8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+    box-shadow: .5rem .5rem 3rem rgba(0,0,0,0.2);
+    
+}
+ul {
+    list-style-type: none;
+    float: right;
+    margin-top: 55px;
+}
+
+    ul li {
+        display: inline-block;
+    }
+
+        ul li a {
+            text-decoration: none;
+            color: #FFF;
+            padding: 5px 20px;
+            border: 1px solid transparent;
+            transition: 0.6s ease;
+        }
+
+            ul li a:hover {
+                background-color: #fff;
+                color: #000;
+            }
+
+        ul li.active a {
+            background-color: #fff;
+            color: #FFF;
+        }
+
+
+.view {
+    
+    text-align: center;
+    width: 100px;
+    align-items: center;
+    margin: 0px 50% 0px 50%;
+}
+.bookingh {
+    text-align: center;
+    padding: 20px;
+   
+}
+.register {
+    background: #24496A;
+    width: 500px;
+    margin: 0px 0px 0px 430px;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#register {
+    margin-left: 50px;
+    
+}
+label{
+    color:white;
+    font-family:sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    padding:20px;
+   
+}
+
+.input {
+
+    width:300px;
+    height: 25px;
+    
+}
+
+.input1 {
+    width: 300px;
+    height: 140px;
+}
+
+.logo img {
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.main {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+    .title h1 {
+        color: #fff;
+        font-size: 50px;
+    }
+
+.button {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #FFF;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+    .btn:hover {
+        background-color: #fff;
+        color: #000;
+    }
+
+
+
+.active {
+    text-decoration: solid;
+    color: black;
+    background-color: white;
+}
+
+menu{
+    align-content:center;
+
+}
+
+@media screen and (min-width: 700px){
+    .card-wrapper{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    
+}

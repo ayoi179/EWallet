@@ -1,0 +1,30 @@
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\obj\Debug\DAL.dll
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\DAL\obj\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\obj\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\obj\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\DAL\bin\Debug\DAL.pdb
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\bin\Debug\DAL.dll
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\bin\Debug\DAL.pdb
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\obj\Debug\DAL.dll
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\DAL\obj\Debug\DAL.pdb
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\bin\Debug\DAL.dll
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\obj\Debug\DAL.dll
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\DAL\obj\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\obj\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\DAL\obj\Debug\DAL.pdb

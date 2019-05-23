@@ -1,0 +1,54 @@
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\bin\Debug\BLL.dll
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\bin\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\obj\Debug\BLL.dll
+C:\Users\Amirul Syahmi\source\repos\EWalletWeb\BLL\obj\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\obj\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\obj\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\bin\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\bin\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA PROJECT 2\bhbhjb\EWalletWeb\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\obj\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\obj\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\bin\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\bin\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA\EWalletWeb\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\bin\Debug\BLL.dll
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\bin\Debug\BLL.pdb
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\bin\Debug\DAL.dll
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\bin\Debug\DAL.pdb
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\obj\Debug\BLL.dll
+D:\UTM\SEM 4\SDA\PROJECTTT\1\EWalletWeb-master\BLL\obj\Debug\BLL.pdb
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\bin\Debug\BLL.dll
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\bin\Debug\BLL.pdb
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\bin\Debug\DAL.dll
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\bin\Debug\DAL.pdb
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\obj\Debug\BLL.dll
+C:\Users\Afiq\Desktop\1\EWalletWeb-master\BLL\obj\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\bin\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\bin\Debug\BLL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\bin\Debug\DAL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\bin\Debug\DAL.pdb
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\obj\Debug\BLL.dll
+C:\Users\Amirul Syahmi\Desktop\SDA 22 MAY\1\EWalletWeb-master\BLL\obj\Debug\BLL.pdb
